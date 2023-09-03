@@ -1,0 +1,12 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# IDE-specific files
+.idea/
+
+# System files
+.DS_Store
+
+# Log files
+geckodriver.log
