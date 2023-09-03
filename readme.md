@@ -1,7 +1,11 @@
 Chatbot Integration with WordPress using AWS Lex and Selenium Testing
 Introduction
 
-This repository (plans to host) a chatbot integrated into a WordPress website, powered by AWS Lex for Natural Language Processing (NLP) capabilities. The project also includes end-to-end testing using Selenium WebDriver in Python.
+This repository (plans to host) a chatbot integrated into a WordPress website, powered by AWS Lex for Natural Language Processing (NLP) capabilities. 
+
+Below is a project outline, that is yet to be implemented.
+
+The project also includes end-to-end testing using Selenium WebDriver in Python.
 Features
 
     🤖 Chatbot with a range of conversational abilities.
