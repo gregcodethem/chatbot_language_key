@@ -10,3 +10,6 @@ __pycache__/
 
 # Log files
 geckodriver.log
+
+# Planning files
+planning/
